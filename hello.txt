@@ -3,4 +3,8 @@ My name is Yash.
 And I am in my second year of Computer Science.
 This is an update to hello.txt!
 This is a change from the new-feature branch.
+<<<<<<< HEAD
 This change was made locally!
+=======
+This change was made directly on GitHub!
+>>>>>>> 9c317ec505dc71152ff5456ebfbb5830cd146ad6
